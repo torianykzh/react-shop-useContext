@@ -1,6 +1,6 @@
 function Preloader(){
-    <div class="progress">
-        <div class="indeterminate"></div>
+    <div classNameName="progress">
+        <div className="indeterminate"></div>
     </div>
 }
 
